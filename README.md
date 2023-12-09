@@ -2,6 +2,8 @@
 <img src="https://raw.githubusercontent.com/mmtuhin/mmtuhin/3440727fc54d6ef9d562581eb54a5ebbcb635dde/Assets/icons/cover.png" />
 </a>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mmtuhin&theme=merko&hide_border=true&card_width=500)](https://git.io/streak-stats)
+
 
 **mmtuhin/mmtuhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
