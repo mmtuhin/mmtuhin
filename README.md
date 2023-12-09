@@ -3,7 +3,7 @@
 </a>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mmtuhin&theme=merko&hide_border=true&card_width=500" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mmtuhin&theme=github-dark&hide_border=true&card_width=500" />
 </p>
 
 
