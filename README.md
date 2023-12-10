@@ -8,7 +8,7 @@
 
 <br/>
 
-## Reach me out
+## 📫 Reach me out:
 
 <br />
 
@@ -16,7 +16,19 @@
 
 <br />
 
+## About Me:
+
+<br />
+
+- 🔭 I’m currently working on a newsportal site
+- 🌱 I’m currently learning UI/UX 
+- 👯 I’m looking to collaborate on a project where industry best practices are applied.
+
+<br />
+
 ## My tech toolbox
+Within these technology toolbox along with other, I wield the power of the MERN stack—MongoDB, Express.js, React, and Node.js—to craft dynamic, scalable, and high-performance web applications.
+
 <p align="center">
   <a href="https://www.linkedin.com/in/mmtuhinhossain">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,firebase,git,mongodb,postman&perline=5" />
@@ -24,16 +36,6 @@
 </p>
 
 
-**mmtuhin/mmtuhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
