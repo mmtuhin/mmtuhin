@@ -6,16 +6,6 @@
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mmtuhin&theme=github-dark&hide_border=true&card_width=500" />
 </p>
 
-<br/>
-
-## 📫 Reach me out:
-
-<br />
-
-[<p align="center"><img height="65" src="https://raw.githubusercontent.com/mmtuhin/mmtuhin/main/Assets/icons/fbBtn.png">](https://web.facebook.com/22hin/)[<img height="65" src="https://github.com/mmtuhin/mmtuhin/blob/main/Assets/icons/twitterBtn.png?raw=true">](https://twitter.com/TuhinHossa42587)[<img height="65" src="https://github.com/mmtuhin/mmtuhin/blob/main/Assets/icons/li-btn.png?raw=true"> </p>](https://www.linkedin.com/in/mmtuhinhossain)
-
-<br />
-
 ## About Me:
 
 <br />
@@ -34,6 +24,14 @@ Within these technology toolbox along with other, I wield the power of the MERN 
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,firebase,git,mongodb,postman&perline=5" />
   </a>
 </p>
+
+## 📫 Reach me out:
+
+<br />
+
+[<p align="center"><img height="65" src="https://raw.githubusercontent.com/mmtuhin/mmtuhin/main/Assets/icons/fbBtn.png">](https://web.facebook.com/22hin/)[<img height="65" src="https://github.com/mmtuhin/mmtuhin/blob/main/Assets/icons/twitterBtn.png?raw=true">](https://twitter.com/TuhinHossa42587)[<img height="65" src="https://github.com/mmtuhin/mmtuhin/blob/main/Assets/icons/li-btn.png?raw=true"> </p>](https://www.linkedin.com/in/mmtuhinhossain)
+
+<br />
 
 
 
