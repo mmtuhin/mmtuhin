@@ -18,7 +18,7 @@
 
 ## My tech toolbox
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/mmtuhinhossain">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,firebase,git,mongodb,postman&perline=5" />
   </a>
 </p>
