@@ -12,7 +12,7 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://raw.githubusercontent.com/mmtuhin/mmtuhin/main/Assets/icons/fbBtn.png">](https://web.facebook.com/22hin/)[<img height="75" src="https://github.com/mmtuhin/mmtuhin/blob/main/Assets/icons/twitterBtn.png?raw=true">](https://twitter.com/TuhinHossa42587)[<img height="75" src="https://github.com/mmtuhin/mmtuhin/blob/main/Assets/icons/li-btn.png?raw=true"> </p>](https://www.linkedin.com/in/mmtuhinhossain)
+[<p align="center"><img height="65" src="https://raw.githubusercontent.com/mmtuhin/mmtuhin/main/Assets/icons/fbBtn.png">](https://web.facebook.com/22hin/)[<img height="65" src="https://github.com/mmtuhin/mmtuhin/blob/main/Assets/icons/twitterBtn.png?raw=true">](https://twitter.com/TuhinHossa42587)[<img height="65" src="https://github.com/mmtuhin/mmtuhin/blob/main/Assets/icons/li-btn.png?raw=true"> </p>](https://www.linkedin.com/in/mmtuhinhossain)
 
 <br />
 **mmtuhin/mmtuhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
